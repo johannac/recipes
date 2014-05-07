@@ -3,6 +3,10 @@ These are the most chocolately delicious cookies you'll ever have.
 Chewy and almost brownie like, these all dark chocolate cookies are flavoured
 with orange zest, sea salt and just a hint of chili. 
 
+Makes 12 servings.
+
+This recipe is vegetarian. Please send a pull request if you have a vegan variation!
+
 ## Ingredients
 
  - [ ] 50g unsalted butter
@@ -14,8 +18,6 @@ with orange zest, sea salt and just a hint of chili.
  - [ ] 1/4 tsp baking powder
  - [ ] A pinch of sea salt + extra for topping cookies
  - [ ] A pinch or 2 of spices to taste - chili powder, vanilla, or cardamom
-
-Makes 12 servings
  
 ## Instructions
 
