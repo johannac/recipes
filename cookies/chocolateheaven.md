@@ -20,7 +20,7 @@ Pre heat oven to 180C.
 
 Put the butter and 200g of the chocolate in a [bain marie](https://en.wikipedia.org/wiki/Bain-marie) until the chocolate is melted.
 
-Separate the egg yolks from the whites in separate bowls. Whisk the egg whites with a pinch of salt until you get semi-stiff meringe peaks.
+Separate the egg yolks from the whites in separate bowls. Whisk the egg whites with a pinch of salt until you get  semi-stiff peaks.
 
 Whisk the egg yolks with the brown sugar, orange zest and juice until the mixture lightens in color (2-5 min)
 
