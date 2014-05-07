@@ -4,6 +4,7 @@ Chewy and almost brownie like, these all dark chocolate cookies are flavoured
 with orange zest, sea salt and just a hint of chili. 
 
 ## Ingredients
+
  - [ ] 50g unsalted butter
  - [ ] 250g dark chocolate, chopped
  - [ ] 150g brown sugar
@@ -13,6 +14,8 @@ with orange zest, sea salt and just a hint of chili.
  - [ ] 1/4 tsp baking powder
  - [ ] A pinch of sea salt + extra for topping cookies
  - [ ] A pinch or 2 of spices to taste - chili powder, vanilla, or cardamom
+
+Makes 12 servings
  
 ## Instructions
 
